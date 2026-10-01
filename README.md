@@ -21,6 +21,3 @@ I enjoy learning by building things and gradually turning ideas into real projec
 - Strengthen my Data Structures & Algorithms knowledge
 - Learn more about Software Engineering
 - Explore AI and automation
-
-
-
