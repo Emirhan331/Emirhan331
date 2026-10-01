@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Emirhan
 
-<!--
-**Emirhan331/Emirhan331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student
+Learning Software Development
+Building projects and improving my programming skills
 
-Here are some ideas to get you started:
+## About Me
+I'm a Computer Engineering student interested in software development, algorithms, and problem solving.
+Currently, I'm focusing on improving my programming skills through hands-on projects and university coursework.
+I enjoy learning by building things and gradually turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+-Python
+-Object-Oriented Programming
+-Data Structures & Algorithms
+-C#
+
+## Goals
+-Improve my Python skills
+-Build more real-world projects
+-Strengthen my Data Structures & Algorithms knowledge
+-Learn more about Software Engineering
+-Explore AI and automation
+
+
+
